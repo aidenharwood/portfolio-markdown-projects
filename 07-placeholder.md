@@ -1,5 +1,5 @@
 ---
-title: Featured Placeholder
+title: Placeholder 5
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 date: 2024-01-15
 tags: [placeholder, example, demo]
