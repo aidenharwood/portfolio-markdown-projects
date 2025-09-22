@@ -4,7 +4,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiu
 date: 2024-01-15
 tags: [placeholder, example, demo]
 featured: true
-image: /images/placeholder.jpg
+image: /images/placeholder.png
 technologies: [Lorem, Ipsum, Dolor]
 status: completed
 ---
