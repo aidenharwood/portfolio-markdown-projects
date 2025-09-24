@@ -4,6 +4,8 @@ description: A comprehensive guide to implementing ArgoCD for GitOps-based conti
 date: 2024-01-15
 tags: [argocd, gitops, kubernetes, devops]
 image: /images/projects/argocd.png
+github: https://github.com/aidenharwood/portfolio-helm-bootstrap-argocd
+demo: https://argocd.aidenharwood.uk
 status: completed
 ---
 
